@@ -1,6 +1,6 @@
 title: Elora Unversed Colors (HD)
 originalAuthor: ColossusSteppes
-description: Mixes HD Vanilla and FM Unversed Colors. Uses Mikote111's HD Vanilla Unversed mod as a base.
+description: Mixes HD Vanilla and FM Unversed Colors. Uses Mikote111's HD Vanilla Unversed mod as a base. Uses a few textures from TieuLink's HD mod to match quality.
 game: bbs
 specifications: 0
 dependencies: 
@@ -269,6 +269,30 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: remastered\chara\enemy\m01vs\00\m01vs00.pmo\-0.DDS
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m01vs\00\m01vs00.pmo\-0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: remastered\chara\enemy\m02ex\00\m02ex00.pmo\-0.dds
   method: copy
   platform: pc
@@ -276,6 +300,78 @@ assets:
   multi: 
   source:
   - name: remastered\chara\enemy\m02ex\00\m02ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m03dc\00\m03dc00.pmo\-0.DDS
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m03dc\00\m03dc00.pmo\-0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m03ex\00\m03ex00.pmo\-0.DDS
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m03ex\00\m03ex00.pmo\-0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m03vs\00\m03vs00.pmo\-0.DDS
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m03vs\00\m03vs00.pmo\-0.DDS
     method: 
     platform: 
     package: 
@@ -396,6 +492,30 @@ assets:
   multi: 
   source:
   - name: remastered\chara\enemy\m14ex\00\m14ex00.pmo\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\chara\enemy\m15ex\00\m15ex00.pmo\-0.DDS
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: remastered\chara\enemy\m15ex\00\m15ex00.pmo\-0.DDS
     method: 
     platform: 
     package: 
@@ -2117,6 +2237,102 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: remastered\arc\enemy\m03dc00.arc\JP_m03dc00_arc0.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m03dc00.arc\JP_m03dc00_arc0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m03dc00.arc\JP_m03dc00_arc1.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m03dc00.arc\JP_m03dc00_arc1.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m03dc00.arc\JP_m03dc00_arc2.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m03dc00.arc\JP_m03dc00_arc2.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m03ex00d.arc\JP_m03ex00d_arc0.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m03ex00d.arc\JP_m03ex00d_arc0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: remastered\arc\enemy\m06ex00.arc\JP_m06ex00_arc0.dds
   method: copy
   platform: pc
@@ -2292,6 +2508,30 @@ assets:
   multi: 
   source:
   - name: remastered\arc\enemy\m14ex00d.arc\JP_m14ex00d_arc0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\enemy\m15ex00.arc\JP_m15ex00_arc0.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\enemy\m15ex00.arc\JP_m15ex00_arc0.DDS
     method: 
     platform: 
     package: 
@@ -3197,6 +3437,30 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: remastered\arc\menu\m03exPV.arc\JP_m03exPV_arc0.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m03exPV.arc\JP_m03exPV_arc0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: remastered\arc\menu\m06exPV.arc\JP_m06exPV_arc0.dds
   method: copy
   platform: pc
@@ -3341,6 +3605,30 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc0.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc1.dds
   method: copy
   platform: pc
@@ -3372,6 +3660,30 @@ assets:
   multi: 
   source:
   - name: remastered\arc\menu\m15ex01PV.arc\JP_m15ex01PV_arc2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\arc\menu\m15ex02PV.arc\JP_m15ex02PV_arc0.DDS
+  method: copy
+  platform: pc
+  package: bbs_third
+  multi: 
+  source:
+  - name: remastered\arc\menu\m15ex02PV.arc\JP_m15ex02PV_arc0.DDS
     method: 
     platform: 
     package: 
